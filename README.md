@@ -108,11 +108,3 @@ The `server.py` script is the main server-side code that handles client connecti
 ## Contributing
 
 Contributions are welcome! Please fork this repository and submit pull requests.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-This README provides an overview of the Real-Time Stock Market Auction system, its features, installation steps, and a summary of the server-side code. Placeholder images are used to illustrate key points in the server operation. Replace these placeholders with actual screenshots as needed.
