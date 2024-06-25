@@ -2,6 +2,8 @@
 
 A real-time stock market auction system built with Python, using WebSocket for client-server communication and peer-to-peer (P2P) interactions. This application allows users to participate in live stock auctions, placing bids and tracking stock prices in real-time.
 
+![main image](https://github.com/sahanHansaja026/Real-Time-Stock-Market-Auction---Python-Web-Socket-/blob/main/image1.png)
+
 ## Features
 
 - **Real-Time Bidding**: Users can place bids on stocks in real-time.
@@ -93,15 +95,15 @@ The `server.py` script is the main server-side code that handles client connecti
 
 ### Server Listening
 
-![Server Listening](https://via.placeholder.com/400x300.png?text=Server+Listening)
+![Server Listening](https://github.com/sahanHansaja026/Real-Time-Stock-Market-Auction---Python-Web-Socket-/blob/main/image3.png)
 
-### Client Connection
+### Show Security, Symbol, Price and Profit in Clinet side
 
-![Client Connection](https://via.placeholder.com/400x300.png?text=Client+Connection)
+![Client Connection](https://github.com/sahanHansaja026/Real-Time-Stock-Market-Auction---Python-Web-Socket-/blob/main/image4.png)
 
-### Stock Data Sent to Client
+### Finaly Output In Server Side
 
-![Stock Data Sent to Client](https://via.placeholder.com/400x300.png?text=Stock+Data+Sent+to+Client)
+![Final OutPut](https://github.com/sahanHansaja026/Real-Time-Stock-Market-Auction---Python-Web-Socket-/blob/main/image2.png)
 
 ## Contributing
 
